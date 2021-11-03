@@ -22,6 +22,7 @@ import {
 import DEFAULT_FORM_INPUTS from './defaults/defaultFormInputs';
 import type { Node } from 'react';
 import type { Mods } from './types';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 const useStyles = createUseStyles({
   formBuilder: {
