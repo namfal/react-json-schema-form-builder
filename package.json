@@ -80,12 +80,12 @@
     "@fortawesome/fontawesome-svg-core": "^1.2.35",
     "@fortawesome/free-solid-svg-icons": "^5.15.3",
     "@fortawesome/react-fontawesome": "^0.1.14",
+    "bootstrap": "^4.6.0",
     "classnames": "^2.2.6",
     "react-beautiful-dnd": "^13.0.0",
     "react-jss": "^10.4.0",
     "react-select": "^5.0.0",
-    "reactstrap": "^8.6.0",
-    "bootstrap": "^4.6.0"
+    "reactstrap": "^8.6.0"
   },
   "jest": {
     "collectCoverageFrom": [
