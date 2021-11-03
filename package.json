@@ -36,7 +36,6 @@
     "test:watch": "react-scripts test --env=jsdom"
   },
   "peerDependencies": {
-    "bootstrap": "^4.6.0",
     "react": "^16.x || ^17.x"
   },
   "files": [
