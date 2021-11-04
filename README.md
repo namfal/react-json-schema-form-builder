@@ -1,7 +1,7 @@
-# React JSON Schema Form Editor
+# React JSON Schema Form Editor (FORK)
 
-[![npm](https://img.shields.io/npm/v/@ginkgo-bioworks/react-json-schema-form-builder)](https://www.npmjs.com/package/@ginkgo-bioworks/react-json-schema-form-builder)
-[![CI](https://github.com/ginkgobioworks/react-json-schema-form-builder/workflows/CI/badge.svg?branch=main)](https://github.com/ginkgobioworks/react-json-schema-form-builder/actions)
+This is a fork, you can find the original library [here](https://github.com/ginkgobioworks/react-json-schema-form-builder).
+
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![GitHub issues](https://img.shields.io/github/issues-raw/ginkgobioworks/react-json-schema-form-builder)](https://github.com/ginkgobioworks/react-json-schema-form-builder/issues)
 
