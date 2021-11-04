@@ -9,7 +9,6 @@ var freeSolidSvgIcons = require('@fortawesome/free-solid-svg-icons');
 var classnames = _interopDefault(require('classnames'));
 var reactFontawesome = require('@fortawesome/react-fontawesome');
 var Select = _interopDefault(require('react-select'));
-require('bootstrap/dist/css/bootstrap.min.css');
 
 function _extends() {
   _extends = Object.assign || function (target) {

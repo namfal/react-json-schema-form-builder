@@ -6,7 +6,6 @@ import { faCaretDown, faCaretRight, faAsterisk, faQuestionCircle, faTimes, faPlu
 import classnames from 'classnames';
 import { FontAwesomeIcon as FontAwesomeIcon$1 } from '@fortawesome/react-fontawesome';
 import Select from 'react-select';
-import 'bootstrap/dist/css/bootstrap.min.css';
 
 function _extends() {
   _extends = Object.assign || function (target) {
